@@ -39,4 +39,4 @@ client.on('messageCreate', async message => {
   }
 });
 
-client.login('YOUR_BOT_TOKEN');
+client.login('a0379b6ee3cec2b9c9d87497ee565af17a1c2f7154b755f52af6a38a06c87717');
